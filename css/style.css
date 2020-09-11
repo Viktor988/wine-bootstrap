@@ -1,0 +1,43 @@
+.navbar {border-radius: 0px;margin-bottom:0px;}#skrozgore{background-color:#3c2b23;}
+#glavna{height:500px;background:url("../slike/glavna.jpg");background-size:100% 500px;background-repeat:no-repeat;}.crta{width: 70%;border-bottom: 2px solid #ff0000;}
+#dole{display: flex;align-items: center;}#obojen{background-color:#cba781;}#prvi{background-color:#3c2b23;}
+.fab{color:white;font-size:22px;margin-left: 8%;}.fab:hover{color:#cba781;}
+.input-group .form-control{border-radius:0px;padding: 3px 12px;height:24px;}
+.glyphicon {top: -2px;}.btn{height:24px;border-radius:0px;}
+.navbar-inverse{background-color:#cba781;}#red1{padding:4px;}.navbar-inverse .navbar-nav>li>a {color: #ffffff;font-size:20px;}
+.navbar-nav>li:hover{background-color:#5f473c}
+.navbar-inverse .navbar-nav>.active>a{background-color:#a7845f;}
+.navbar-inverse .navbar-nav>.active>a:hover{background-color:#5f473c;}
+#cvina{height:500px;background:url("../slike/crno.jpg");background-size:364px 500px;background-repeat:no-repeat;}#cvina img{height:500px; position:relative;border-radius:40px;}
+#bvina{height:500px;background:url("../slike/belo.jpg");background-size:364px 500px;background-repeat:no-repeat;}}#bvina img{height:500px; position:relative;}
+#tekst{font-size:23px;}#ddugme{height:auto;padding:23px;z-index:5;width:364px;background-color:#3c2b23;margin-top:432px;margin-left:-15px;color:white;}#rvina{padding-bottom:100px;}
+#ovina{position:absolute;color:white;z-index:10;font-size:23px;margin-left: 112px;}
+#fdole{height:80px;background-color:#3c2b23;display:flex;align-items:center;}
+.drugii{background-color:#3c2b23;}.futer a{color:white;text-decoration:none;font-size:17px;}.vinac img{height:200px;}.vinac{margin-top:50px;}
+.img-responsive, .thumbnail a>img, .thumbnail>img{margin:0px auto;width: auto;height: 300px;}
+.panel-primary>.panel-heading{background-color:#3c2b23;border-color: #3c2b23;border-radius:0px;}
+.panel{background-color:#cba781;}.panel-footer{background-color:#3c2b23;color:white;border-radius:0px;}
+.panel-primary {border-color: #3c2b23;}.panel-footer{border-top:0px;}.naslov{margin-bottom:40px;}.pdugme{height:auto;}#ddugme:hover{background-color:#563525;}
+.form-control{border-radius:0px;}.form-control:focus{border-color:#cba781;}.btn-default{border-color:none;}
+#slautor img{width:300px;height:250px;}#tautor{font-size:22px;}#rvina{padding-bottom:100px;}#prijavad{padding-bottom:50px;}
+#mejp{width:400px;height:200px;}.kontaktsl h2{font-size:25px;}.kontaktsl p{margin: 0 0 20px;font-size:17px;}
+.kontaktsl p i{font-size:25px}.navbar-brand>img{height:43px;margin-top:-11px;margin-right:50px;}hr{width:150px;margin-top:-10px;background-color:#333;border-top: 2px solid #333;}
+textarea.form-control{height:150px;}.kdugme{height: 40px;margin-top: 15px;width: 100px;}.naslov2{margin-bottom:30px;}
+#glavna h1{color:white;font-size:55px;padding-top:100px;margin-left:50px;font-weight:530;}
+.vinacb p{margin: 0 0 0px;border-radius:2px;}
+.fas {font-weight: 900;color: white;font-size: 20px;margin-left: 10%;}.fas:hover{color:#cba781;}
+.img-responsive, .thumbnail a>img, .thumbnail>img{border-radius:4px;}
+#robots{vertical-align: middle;width: 21px;height: 21px;margin-left: 8%;margin-bottom: 5px;}
+#robots:hover{background-color:#cba781;}.panel-danger{border-color:#fff;}
+@media (min-width:1200px) { 
+.pdugme{margin-left:21%;}
+#zapamti{margin-left:22%;}
+}
+@media (min-width:992px) and (max-width:1200px){
+.container-fluid{padding-left:0px;}.pdugme{margin-left:35%;}#zapamti{margin-left:26%;}.futer{margin-left:100px;}
+}
+	@media (min-width:768px) and (max-width:992px){
+#tautor{margin-top:20px;}.gslike{width:630px;}
+	.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header{margin-right:1%;}}
+		@media (max-width:768px) {
+.gslike{width:600px;}#mejp{width:100%;}#tautor{margin-top:20px;}#cvina{margin-bottom:50px;
